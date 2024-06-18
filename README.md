@@ -1,5 +1,5 @@
 # Projeto curiosidades sobre mim
-[<img src="./src/imagem/tela-oakley.gif" alt="tela gif">]
+[<img src="./src/imagem/igor.gif" alt="tela gif">]
 
 ## Tecnologias utilizadas 
 - HTML
